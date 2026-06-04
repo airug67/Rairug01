@@ -6,7 +6,7 @@ import type {
   Asset, MarketSummary, Portfolio, Position,
   Agent, AgentRecommendation, Alert, Strategy,
   BacktestResult, Order, RiskAlert, SubscriptionPlan
-} from '@types/index'
+} from '@/types/index'
 
 // ==========================================
 // Assets

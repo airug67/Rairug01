@@ -22,8 +22,8 @@ import {
   User,
   ExternalLink
 } from 'lucide-react'
-import { cn } from '@/lib/utils'
-import { UserMode } from '@/types'
+import { cn } from '@lib/utils'
+import { UserMode } from '@types'
 
 const navigation = [
   { name: 'Dashboard', href: '/dashboard', icon: LayoutDashboard },
